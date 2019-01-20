@@ -1,0 +1,5 @@
+spring:
+  cloud:
+    function:
+      scan:
+        packages: org.debugroom.mynavi.sample.aws.lambda.functions
